@@ -26,6 +26,11 @@
   justify-content: flex-start;
 }
 
+.realMessage {
+  display: flex;
+  justify-content: flex-start;
+}
+
 .message a {
   color: black;
 }
